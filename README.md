@@ -60,7 +60,7 @@ Runs the program:
 
 ---
 
-## 🧠 Example Output
+## Example Output
 
 Bought a cat: Whiskers
 You stroke Whiskers. They purr happily.
