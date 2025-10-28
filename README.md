@@ -5,7 +5,7 @@ The program demonstrates **object-oriented programming (OOP)** principles such a
 
 ---
 
-## 📘 Overview
+## Overview
 
 This application represents a small **Pet Shop system** where customers can purchase different types of pets — cats, dogs, and goldfish — each with their own behaviors and attributes.  
 
