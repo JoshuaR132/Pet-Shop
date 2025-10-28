@@ -1,0 +1,3 @@
+public interface Strokeable {
+    void stroke();
+}
